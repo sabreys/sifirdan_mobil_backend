@@ -47,24 +47,34 @@ Yazılıma yeni başlayacaklar için temel ve ücretsiz kaynakların linklerini 
 AWS, Google Cloud, Azure ve Mongo gibi bir çok bulut hizmet sağlayıcısı var ama genelde birinin ürünleri üzerine yoğunlaşılıyor. Birbirinin türevi ürenler çoğu. Ben Google Cloud ve alt ürünü olan Firebase hizmetlerini çoğunlukla projelerimde kullandım. 
 
 [Flutter Firebase Dersleri](https://youtu.be/E4xHTeFTGfc)
+
 [# Flutter - Firebase Email ve Şifre ile Oturum Açma İşlemleri](https://youtu.be/uWYOUeY3Npo)
+
 [Firebase Cloud Functions](https://youtu.be/Su-ElD0Mv1s)
+
 [Firebase Storage](https://youtu.be/s9e8hOBH3qQ)
+
 [Firebase FCM ile bildirim gönderme](https://youtu.be/4yyad3Q6dhM)
 
 
 
 # Veritabanı
 [MySQL kurulum Ve Kullanımı (XAMPP kurup başlayın.)](https://youtu.be/vBIo_UfCqB8)
+
 [SQL dersleri](https://youtu.be/icLN2JaQjv8)
+
 [Node.js ve MySQL bağlantısı kurma (API yazma)](https://youtu.be/EN6Dx22cPRI)
+
 [Mongodb dersi (Firestore öğrenseniz de olur. NoSQL veritabanları bu ürünler ) ](https://youtu.be/ZMgs0wSsfUk)
 
 
 # Yapay Zeka
 [Makine Öğrenmesi Serisi](https://youtube.com/playlist?list=PLlHW_nnK3v5hlnKAsAUToYFCHYGBsR_6a)
+
 [Scikit Dersi](https://youtu.be/uQNwxQo-Zfs)
+
 [7 Saatte TensorFlow dersi(Türkçe kaynak çok az)](https://youtu.be/tPYj3fFJGjk)
+
 Daha çok sözlü kaynaklar ve örnek projeler üzerinden daha kolay öğrenilebilir. Algoritmaların teorik bilgilerini bilgisayar kavramları kanalından izleyebilirsiniz.
 
 # Akademik Kaynak
@@ -72,9 +82,13 @@ Daha çok sözlü kaynaklar ve örnek projeler üzerinden daha kolay öğrenileb
 
 # Yazılım Gündemi
 [YalınKod](https://www.youtube.com/c/YalinKod)
+
 [Selman Kahya](https://www.youtube.com/c/SelmanKahya)
+
 [Çağrı Odabaşı](https://www.youtube.com/c/%C3%A7a%C4%9Fatayodaba%C5%9F%C4%B1)
+
 [Fireship](https://www.youtube.com/c/Fireship)
+
 [2 Minutes Papers - Yapay Zeka en güncel gelişmeler](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
 
 # Basit Projeler Listesi 
